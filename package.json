@@ -28,9 +28,10 @@
     "concurrently": "4.0.1",
     "nodemon": "1.18.4"
   }
-  
+  {
   "name": "ecommerce-react",
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
     "node": "6.11.1"
+}
